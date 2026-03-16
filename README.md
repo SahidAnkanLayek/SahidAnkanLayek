@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...I’m open to collaborating on projects related to educational platforms, full-stack applications, and innovative tech solutions.
 - 📫 How to reach me ...You can reach me via [Email: sahid.ankan.layek2020@gmail.com]
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...I successfully developed a full-stack VPN app and a notes management application as part of my portfolio!
+- ⚡ Fun fact: ...I successfully developed a "CheXNet-AI: Advanced Chest X-ray Diagnostic System" as part of my portfolio!
   -
                      Feel free to connect with me for exciting collaborations and discussions!
 <!---
